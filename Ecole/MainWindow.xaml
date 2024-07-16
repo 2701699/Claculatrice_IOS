@@ -1,0 +1,119 @@
+﻿<Window x:Class="Ecole.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ecole"
+        mc:Ignorable="d"
+        Title="Ecoles" Height="450" Width="800">
+    <Grid>
+        <TabControl>
+            <TabControl.Resources>
+                <Style TargetType="TabItem">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="TabItem">
+                                <Border x:Name="TabBorder" BorderThickness="2" CornerRadius="10,10,10,10">
+                                    <ContentPresenter x:Name="Content" VerticalAlignment="Center" HorizontalAlignment="Center"
+                                                      Margin="10,2" ContentSource="Header"/>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsSelected" Value="True">
+                                        <Setter Property="Background" TargetName="TabBorder" Value="Orange"/>
+                                    </Trigger>
+
+                                    <Trigger Property="IsSelected" Value="False">
+                                        <Setter Property="Background" TargetName="TabBorder" Value="Yellow"/>
+                                    </Trigger>
+
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </TabControl.Resources>
+
+            <TabItem>
+                <TabItem.HeaderTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="/icons8-school-64.png" Width="25" Height="25"/>
+                            <TextBlock Text="Ecoles" Foreground="White"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </TabItem.HeaderTemplate>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Orientation="Horizontal" Margin="4">
+                        <Label Content="Nom de l'ecole" Width="120"/>
+                        <TextBox x:Name="tbNomEcole" Width="200" BorderBrush="Orange" BorderThickness="2"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal" Grid.Row="1" Margin="4">
+                        <Label Content="Adresse de l'ecole" Width="120"/>
+                        <TextBox x:Name="tbAdresseEcole" Width="200" BorderBrush="Orange" BorderThickness="2"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal" Grid.Row="2" Margin="4">
+                        <Label Content="Telephone de l'ecole" Width="120"/>
+                        <TextBox x:Name="tbTelEcole" Width="200" BorderBrush="Orange" BorderThickness="2"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal" Grid.Row="3">
+                        <Button x:Name="btnAjouter" Content="Ajouter" Style="{StaticResource ButtonStyle}"/>
+                        <Button x:Name="btnModifier" Content="Modifier" Style="{StaticResource ButtonStyle}" />
+                        <Button x:Name="btnSupprimer" Content="Supprimer" Style="{StaticResource ButtonStyle}" Click="btnSupprimer_Click"/>
+                    </StackPanel>
+
+
+
+                </Grid>
+            </TabItem>
+
+            <TabItem>
+                <TabItem.HeaderTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="/icons8-teacher-48.png" Width="25" Height="25"/>
+                            <TextBlock Text="Enseignants"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </TabItem.HeaderTemplate>
+            </TabItem>
+
+            <TabItem>
+                <TabItem.HeaderTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="/icons8-students-16.png" Width="25" Height="25"/>
+                            <TextBlock Text="Etudiants"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </TabItem.HeaderTemplate>
+            </TabItem>
+
+            <TabItem>
+                <TabItem.HeaderTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="/icons8-courses-64.png" Width="25" Height="25"/>
+                            <TextBlock Text="Cours"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </TabItem.HeaderTemplate>
+            </TabItem>
+
+        </TabControl>
+
+    </Grid>
+</Window>

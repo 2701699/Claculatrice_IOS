@@ -1,0 +1,42 @@
+C:\Users\awsel\source\repos\Ecole\Ecole\bin\Debug\net6.0-windows\Ecole.exe
+C:\Users\awsel\source\repos\Ecole\Ecole\bin\Debug\net6.0-windows\Ecole.deps.json
+C:\Users\awsel\source\repos\Ecole\Ecole\bin\Debug\net6.0-windows\Ecole.runtimeconfig.json
+C:\Users\awsel\source\repos\Ecole\Ecole\bin\Debug\net6.0-windows\Ecole.dll
+C:\Users\awsel\source\repos\Ecole\Ecole\bin\Debug\net6.0-windows\Ecole.pdb
+C:\Users\awsel\source\repos\Ecole\Ecole\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\awsel\source\repos\Ecole\Ecole\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\awsel\source\repos\Ecole\Ecole\obj\Debug\net6.0-windows\Ecole_MarkupCompile.cache
+C:\Users\awsel\source\repos\Ecole\Ecole\obj\Debug\net6.0-windows\Ecole_MarkupCompile.lref
+C:\Users\awsel\source\repos\Ecole\Ecole\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\awsel\source\repos\Ecole\Ecole\obj\Debug\net6.0-windows\Ecole.g.resources
+C:\Users\awsel\source\repos\Ecole\Ecole\obj\Debug\net6.0-windows\Ecole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awsel\source\repos\Ecole\Ecole\obj\Debug\net6.0-windows\Ecole.AssemblyInfoInputs.cache
+C:\Users\awsel\source\repos\Ecole\Ecole\obj\Debug\net6.0-windows\Ecole.AssemblyInfo.cs
+C:\Users\awsel\source\repos\Ecole\Ecole\obj\Debug\net6.0-windows\Ecole.csproj.CoreCompileInputs.cache
+C:\Users\awsel\source\repos\Ecole\Ecole\obj\Debug\net6.0-windows\Ecole.dll
+C:\Users\awsel\source\repos\Ecole\Ecole\obj\Debug\net6.0-windows\refint\Ecole.dll
+C:\Users\awsel\source\repos\Ecole\Ecole\obj\Debug\net6.0-windows\Ecole.pdb
+C:\Users\awsel\source\repos\Ecole\Ecole\obj\Debug\net6.0-windows\Ecole.genruntimeconfig.cache
+C:\Users\awsel\source\repos\Ecole\Ecole\obj\Debug\net6.0-windows\ref\Ecole.dll
+C:\Users\awsel\source\repos\Ecole\Ecole\obj\Debug\net6.0-windows\App.baml
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\bin\Debug\net6.0-windows\Ecole.exe
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\bin\Debug\net6.0-windows\Ecole.deps.json
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\bin\Debug\net6.0-windows\Ecole.runtimeconfig.json
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\bin\Debug\net6.0-windows\Ecole.dll
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\bin\Debug\net6.0-windows\Ecole.pdb
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\obj\Debug\net6.0-windows\Ecole_MarkupCompile.cache
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\obj\Debug\net6.0-windows\Ecole_MarkupCompile.lref
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\obj\Debug\net6.0-windows\App.baml
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\obj\Debug\net6.0-windows\Ecole.g.resources
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\obj\Debug\net6.0-windows\Ecole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\obj\Debug\net6.0-windows\Ecole.AssemblyInfoInputs.cache
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\obj\Debug\net6.0-windows\Ecole.AssemblyInfo.cs
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\obj\Debug\net6.0-windows\Ecole.csproj.CoreCompileInputs.cache
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\obj\Debug\net6.0-windows\Ecole.dll
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\obj\Debug\net6.0-windows\refint\Ecole.dll
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\obj\Debug\net6.0-windows\Ecole.pdb
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\obj\Debug\net6.0-windows\Ecole.genruntimeconfig.cache
+C:\Users\Acer_\OneDrive\Desktop\Session 3 Folders\App Bureau C#\Ecole\Ecole\obj\Debug\net6.0-windows\ref\Ecole.dll
